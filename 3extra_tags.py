@@ -5,7 +5,7 @@ import sys
 #功能:关键字提取
 #topK为返回几个TF/IDF权重最大的关键词，默认值为10
 #打印关键字及其权重
-#调整关键字的默认权重
+#调整关键字频率的默认权重，通过自定义字段实现
 import jieba
 import jieba.analyse
 from optparse import OptionParser
