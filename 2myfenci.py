@@ -6,7 +6,7 @@ import jieba
 #标注词性需要这个模块
 from jieba import posseg
 
-FILE_NAME = './source.txt'
+FILE_NAME = './source2.txt'
 def fenci(filename):
     fp = file(filename, 'r')
     fp2 = file("./tmp2.txt", "a+")

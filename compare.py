@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 #coding:utf-8
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 from gensim import corpora, models, similarities
 from collections import defaultdict
@@ -21,19 +24,15 @@ documents = [data1_words,data2_words]
 texts = [[word for word in document.split()]
          for document in documents] # 遇到这样的代码，我们阅读的规则是遵循从右往左，先看最外面的for循环，z再看里面的for循环
 
-print "=============texts is========="
-'''
-for i in texts:
-    for j in i:
-        print j
-'''
-#print('texts',texts)
+
 frequency = defaultdict(int)   # 使用默认字典
 for text in texts:      # 下面2行代码是计算每个词的频数。方便下面的代码去除频数少的单词
     for token in text:
         frequency[token] = +1
 
 dictionary = corpora.Dictionary(texts)
+print dictionary
+print type(dictionary)
 dictionary.save('./dictionary.txt')
 
 # texts = [[word for word in text if frequency[token] > 1]
