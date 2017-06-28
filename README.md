@@ -3,11 +3,19 @@
 
 打标签：
 extra_tags.py：
+
 关键函数：extarct_tags ，通过help(jieba.analyse.extarct_tags) 查看
+
 函数提示如下：
+
 withWeight：单词权重
+
 allowPOS：单词性质，参看https://wenku.baidu.com/view/49eab3a9ad51f01dc281f1f8.html
+
 withFlag：
+
+
+======================================================
 
 Help on method extract_tags in module jieba.analyse.tfidf:
 
