@@ -20,14 +20,24 @@ withFlag：
 Help on method extract_tags in module jieba.analyse.tfidf:
 
 extract_tags(self, sentence, topK=20, withWeight=False, allowPOS=(), withFlag=False) method of jieba.analyse.tfidf.TFIDF instance
+
     Extract keywords from sentence using TF-IDF algorithm.
+    
     Parameter:
+    
         - topK: return how many top keywords. `None` for all possible words.
+        
         - withWeight: if True, return a list of (word, weight);
+        
                       if False, return a list of words.
+                      
         - allowPOS: the allowed POS list eg. ['ns', 'n', 'vn', 'v','nr'].
+        
                     if the POS of w is not in this list,it will be filtered.
+                    
         - withFlag: only work with allowPOS is not empty.
+        
                     if True, return a list of pair(word, weight) like posseg.cut
+                    
                     if False, return a list of words
 
