@@ -1,0 +1,113 @@
+邦盛/nz 科技/n 
+/x 首页/m 
+/x 解决方案/n 
+/x 产品/n 
+/x 核心技术/n 
+/x 行业新闻/n 
+/x 关于/p 我们/r 
+/x 行业新闻/n News/eng 
+/x 
+/x 锦州/ns 银行/n 携手/v 邦盛/nz 科技/n  /x 大/a 数据/n 事/n 中风/ns 控/v 护航/v 银行/n 安全/an 
+/x 交易/n 监控/vn 及/c 反/v 欺诈/vn 的/uj 演变/v 与/p 发展/vn （/x 今生/t 篇/q ）/x 下/f 
+/x 邦盛/nz 科技/n 受邀/v 人/n 行风/n 控/v 研讨会/n  /x 助/v 银行/n 构建/v 大/a 数据/n 事/n 中风/ns 控/v 
+/x 邦盛/nz 科技/n 斩获/v 中国/ns 软交会/j 两项/m 大奖/nz  /x 流式/n 大/a 数据/n 技术/n 助力/n 行业/n 升级/vn 
+/x 交易/n 监控/vn 及/c 反/v 欺诈/vn 的/uj 演变/v 与/p 发展/vn （/x 今生/t 篇/q ）/x 
+/x 时间轴/n 
+/x 
+/x 2017/m 
+/x 2016/m 
+/x 锦州/ns 银行/n 携手/v 邦盛/nz 科技/n  /x 大/a 数据/n 事/n 中风/ns 控/v 护航/v 银行/n 安全/an 
+/x 发布/v 日期/t ：/x 2017/m -/x 06/m -/x 27/m 
+/x 金融/n 科技/n 对/p 银行/n 既/c 是/v 挑战/vn 也/d 是/v 机遇/n ，/x 技术/n 是/v 为/p 解决/v 商业/n 痛点/n 而/c 生/vn ，/x 通过/p 商业/n 场景/n 和/c 市场/n 锤炼/v 产生/n 巨大/a 价值/n 。/x 近日/t ，/x 锦州/ns 银行/n 电子/n 渠道/n 业务/n 系统/n 全面/n 接入/v 邦盛/nz 科技/n 基于/p 大/a 数据/n 实时处理/l 的/uj 风险/n 监控/vn 平台/n 和/c 反/v 欺诈/vn 系统/n ，/x 助力/n 锦州/ns 银行/n 实现/v 智能/n 银行/n 全面/n 升级/vn 的/uj 同时/c ，/x 进一步/d 提升/v 了/ul 平台/n 的/uj 风/n 控/v 水平/n 。/x 
+/x 
+/x 
+/x 
+/x 拥抱/v 新/a 金融/n  /x 智能/n 银行/n 全面/n 升级/vn 
+/x 锦州/ns 银行/n 股份/n 有限公司/n （/x 简称/v 锦州/ns 银行/n ）/x 成立/v 于/p 1997/m 年/m ，/x 于/p 2015/m 年/m 在/p 香港/ns 联合/v 交易所/nt 主板/n 挂牌/v 上市/ns （/x 股票/n 代号/n ：/x 0416/m ）/x 。/x 在/p 全国/n 设立/v 了/ul 14/m 家/m 分行/v ，/x 与/p 全球/n 70/m 多个/m 国家/n 及/c 地区/n 539/m 家/m 银行/n 建立/v 了/ul 代理行/n 关系/n 。/x 
+/x 
+/x 近年来/t ，/x 凭借/p 出色/v 的/uj 经营/vn 业绩/n 、/x 管理水平/n 、/x 服务/vn 质效/n ，/x 锦州/ns 银行/n 得到/v 了/ul 业界/n 和/c 客户/n 的/uj 广泛/a 认可/v 和/c 赞誉/n ，/x 并/c 成功/a 跻身/v 全国/n 大型/b 城市/ns 商业银行/nt 之/u 列/v 。/x 
+/x 
+/x 
+/x 
+/x 锦州/ns 银行/n 积极/ad 推进/v 互联网/n 金融/n ，/x 2016/m 年/m 在/p 完成/v 核心/n 业务/n 系统升级/n 改造/v 的/uj 同时/c ，/x 加快/v 了/ul 手机/n 银行/n 、/x 微信/vn 银行/n 、/x 企业/n 网银/nt 、/x 个人/n 网银/n 等/u 发展/vn 步伐/n 。/x 支付/v 平台/n 、/x 电商/n 平台/n 和/c 直销/v 银行/n 上线/n 运行/v ，/x 实现/v 了/ul 智能/n 银行/n 的/uj 全面/n 升级/vn 。/x 
+/x 
+/x 银行业务/n 创新/v  /x  /x 风/n 控/v 先行/n 
+/x 近两年/l ，/x 锦州/ns 银行/n 的/uj 业务量/n 有/v 了/ul 突飞猛进/i 的/uj 发展/vn ，/x 银行业务/n 越来越/d 互联网/n 化/n 、/x 开放/v 化/n ，/x 外接/b 的/uj 互联网/n 化/n 服务/vn 越来越/d 多/m ，/x 这/r 就/d 需要/v 银行/n 整体/n 系统/n 与/p 发展/vn 速度/n 相匹配/nz ，/x 也/d 对/p 银行/n 的/uj 安全性/nr 提出/v 了/ul 更/d 高/a 要求/v ，/x 以/p 保证/v 客户/n 交易/n 正常/d 、/x 安全/an 地/uv 进行/v ，/x 同时/c 使/v 服务/vn 系统/n 更加/d 灵活/a ，/x 拥有/v 更/d 高性能/n 应对/v 大/a 交易量/n 。/x 
+/x 
+/x 在/p 风险/n 防控/vn 上/f ，/x 锦州/ns 银行/n 俨然/v 已/d 走/v 在/p 商业银行/nt 的/uj 前列/v 。/x 其/r 电子/n 渠道/n 全面/n 接入/v 邦盛/nz 科技/n 的/uj 风险/n 控制/v 及/c 反/v 欺诈/vn 系统/n ，/x 实现/v 以/p “/x 流/n ”/x 的/uj 形式/n 处理/v 银行/n 交易/n 产生/n 的/uj 海量/n 数据/n ，/x 并/c 实时/d 做出/v 响应/v 。/x 同时/c ，/x 利用/n 大/a 数据/n 工具/n 从/p 海量/n 的/uj 数据/n 中/f 准确/a 、/x 高效/a 的/uj 撷取/v 、/x 挖掘/v 、/x 分析/vn 出/v 欺诈/vn 等/u 行为/v 特征/n ，/x 全面/n 提升/v 了/ul 锦州/ns 银行/n 的/uj 风险管理/n 能力/n 。/x 
+/x 
+/x 专注/v 金融/n 风/n 控反/v 欺诈/vn  /x  /x 构建/v 银行/n 全/a 渠道/n 事/n 中风/ns 控/v 体系/n 
+/x 作为/v 国内/s 最早/d 进行/v 银行/n 等/u 金融机构/n 反/zg 欺诈/vn 研究/vn 的/uj 探索者/nr ，/x 邦盛/nz 科技/n 一直/d 专注/v 于/p 实时/d 大/a 数据处理/n 的/uj 金融/n 安全/an 领域/n ，/x 自主/v 研发/j 了/ul 一整套/m 金融/n 领域/n 实时/d 风险/n 控制/v 与/p 反/v 欺诈/vn 解决方案/n ，/x 并/c 提供/v 解决方案/n 与/p 服务/vn 并行/v 的/uj 模式/n 。/x 目前/t ，/x 已/d 在/p 银行/n 、/x 三方/m 支付/v 、/x 互联网/n 金融/n 、/x 证券/n 、/x 保险/n 、/x 电商/n 等/u 领域/n 广泛应用/l ，/x 拥有/v 大中型/b 金融/n 客户/n 近/t 200/m 家/m 。/x 
+/x 
+/x 邦盛/nz 科技/n 建立/v 的/uj 事/n 中风/ns 控系统/n 是/v 基于/p 大/a 数据/n 实时/d 分析/vn 处理/v 技术/n 构建/v 的/uj 先进/a 、/x 高效/a 、/x 精准/n 的/uj 银行/n 全/a 渠道/n 中央/n 实时/d 风险/n 监控/vn 体系/n ，/x 独立/v 于/p 所有/b 的/uj 银行业务/n 系统/n ，/x 但/c 可以/c 同时/c 实时/d 监控/vn 发生/v 在/p 银行业务/n 系统/n 的/uj 所有/b 交易/n 行为/v 和/c 非/h 交易/n 行为/v ，/x 基于/p 其/r 面临/v 的/uj 不同/a 风险/n 构建/v 综合/vn 防控/vn 体系/n ，/x 帮助/v 银行/n 建设/vn 中央/n 风险/n 防控/vn 体系/n 。/x 
+/x 
+/x 邦盛/nz 科技/n 的/uj 交易/n 风险/n 监控/vn 系统/n 可以/c 制定/v 全面/n 的/uj 实时/d 反/zg 欺诈/vn 规则/n ，/x 可/v 对/p 银行业务/n 系统/n 发生/v 的/uj 风险/n 行为/v 进行/v 有效/a 的/uj 监督/vn 和/c 控制/v ，/x 以/p 防范/v 伪/j 卡/n 、/x 套现/v 、/x 虚假/a 注册/v 、/x 账户/n 盗用/v 、/x 银行卡/nr 盗用/v 、/x 营销/vn 欺诈/vn 等/u 各/r 业务/n 环节/n 欺诈/vn 风险/n 。/x 系统/n 通过/p 规则/n 引擎/n 在/p 业务/n 发生/v 的/uj 同时/c 快速/d 判断/v 业务/n 风险/n ，/x 从而/c 实现/v 对/p 业务/n 过程/n 中/f 的/uj 风险/n 进行/v 实时/d 预警/vn 和/c 控制/v 。/x 
+/x 
+/x 自主/v 可控/v 事/n 中/f 反/v 欺诈/vn 核心技术/n  /x  /x 全面/n 提升/v 反/zg 欺诈/vn 精确性/n 
+/x 针对/p 银行/n 多/m 业务/n 渠道/n 汇聚/v 成/v 的/uj 海量/n 历史数据/n 池/ng 和/c 高/a 并发/v 的/uj 访问/v 数据流/n ，/x 邦盛/nz 科技/n 的/uj 核心/n 应对/v 技术/n 是/v 其/r 自主/v 研发/j 的/uj 流式/n 大/a 数据/n 极速/d 处理/v 平台/n “/x 流/n 立方/q ”/x ，/x 该/r 技术/n 处理/v 吞吐量/n 可/v 达/v 百万/m 笔/n 每秒/r ，/x 单笔/n 延时/ns 可控/v 1/x 毫秒/q 内/n ，/x 并/c 具有/v 高/a 可靠/v 、/x 高/a 可/v 扩展/v 、/x 高/a 兼容/v 的/uj 特征/n 。/x 可/v 将/d 不同/a 通道/v 的/uj 数据/n 进行/v 实时/d 汇总/n 分析/vn ，/x 并/c 针对/p 多种/m 场景/n 进行/v 即时/c 建模/n ，/x 从而/c 大大缩短/i 响应/v 时间/n ，/x 帮助/v 银行/n 实时/d 做出/v 更好/d 的/uj 决策/n 。/x 
+/x 
+/x 
+/x 
+/x 同时/c ，/x 邦盛/nz 科技/n 还/d 集成/v 包括/v 设备/vn 指纹/n 、/x 代理/n 侦测/v 、/x 智能/n 定位/n 、/x 模糊/a 匹配/v 、/x 关联/ns 分析/vn 、/x 人机/n 识别/v 等/u 反/v 欺诈/vn 专有/b 技术/n ，/x 结合/v 针对性/n 的/uj 反/vn 欺诈/vn 数据/n ，/x 包括/v 通信/j 小号/n 、/x 虚假/a 手机号/n 、/x IP/eng 数据库/n 、/x 定位/n 数据/n 等/u 反/v 欺诈/vn 数据/n ，/x 全面/n 提升/v 银行/n 反/zg 欺诈/vn 的/uj 精确性/n 。/x 而/c 在/p 人工智能/n 领域/n ，/x 邦盛/nz 科技/n 3/x 年前/t 就/d 开始/v 布局/n ，/x 并/c 率先/d 将/d 机器/n 学习/v 应用/v 在/p 了/ul 金融/n 风/n 控/v 实践/v 中/f 。/x 
+/x 
+/x 近年来/t ，/x 锦州/ns 银行/n 始终/d 以/p 开放/v 共享/v 的/uj 心态/n 拥抱/v 新/a 金融/n ，/x 探寻/v 金融/n 科技/n 的/uj 融合/vn 。/x 面对/v 新/a 金融/n ，/x 锦州/ns 银行/n 在/p 通过/p 新/a 技术/n 提升/v 金融服务/n 效率/n 的/uj 同时/c ，/x 一直/d 在/p 强化/v 金融/n 的/uj 本质/n 。/x 这次/r 和邦盛/nr 科技/n 的/uj 携手/v ，/x 必将/d 为/p 锦州/ns 银行/n 构建/v 互联网/n 金融/n 生态圈/n 再/d 筑/v 牢固/a 堡垒/n 。/x 
+/x 
+/x 关于/p 邦盛/nz 联系/n 我们/r 加入/v 我们/r 
+/x copyright/eng  /x ©/x  /x 2010/m -/x 2017/m 浙江/ns 邦盛/nz 科技/n 有限公司/n  /x 浙/ns ICP/eng 备/v 10203757/m 号/m 浙/ns 公网/n 安备/v  /x 33010602000845/m 号/m 
+/x 邦盛/nz 科技/n 
+/x 首页/m 
+/x 解决方案/n 
+/x 产品/n 
+/x 核心技术/n 
+/x 行业新闻/n 
+/x 关于/p 我们/r 
+/x 行业新闻/n News/eng 
+/x 
+/x 锦州/ns 银行/n 携手/v 邦盛/nz 科技/n  /x 大/a 数据/n 事/n 中风/ns 控/v 护航/v 银行/n 安全/an 
+/x 交易/n 监控/vn 及/c 反/v 欺诈/vn 的/uj 演变/v 与/p 发展/vn （/x 今生/t 篇/q ）/x 下/f 
+/x 邦盛/nz 科技/n 受邀/v 人/n 行风/n 控/v 研讨会/n  /x 助/v 银行/n 构建/v 大/a 数据/n 事/n 中风/ns 控/v 
+/x 邦盛/nz 科技/n 斩获/v 中国/ns 软交会/j 两项/m 大奖/nz  /x 流式/n 大/a 数据/n 技术/n 助力/n 行业/n 升级/vn 
+/x 交易/n 监控/vn 及/c 反/v 欺诈/vn 的/uj 演变/v 与/p 发展/vn （/x 今生/t 篇/q ）/x 
+/x 时间轴/n 
+/x 
+/x 2017/m 
+/x 2016/m 
+/x 锦州/ns 银行/n 携手/v 邦盛/nz 科技/n  /x 大/a 数据/n 事/n 中风/ns 控/v 护航/v 银行/n 安全/an 
+/x 发布/v 日期/t ：/x 2017/m -/x 06/m -/x 27/m 
+/x 金融/n 科技/n 对/p 银行/n 既/c 是/v 挑战/vn 也/d 是/v 机遇/n ，/x 技术/n 是/v 为/p 解决/v 商业/n 痛点/n 而/c 生/vn ，/x 通过/p 商业/n 场景/n 和/c 市场/n 锤炼/v 产生/n 巨大/a 价值/n 。/x 近日/t ，/x 锦州/ns 银行/n 电子/n 渠道/n 业务/n 系统/n 全面/n 接入/v 邦盛/nz 科技/n 基于/p 大/a 数据/n 实时处理/l 的/uj 风险/n 监控/vn 平台/n 和/c 反/v 欺诈/vn 系统/n ，/x 助力/n 锦州/ns 银行/n 实现/v 智能/n 银行/n 全面/n 升级/vn 的/uj 同时/c ，/x 进一步/d 提升/v 了/ul 平台/n 的/uj 风/n 控/v 水平/n 。/x 
+/x 
+/x 
+/x 
+/x 拥抱/v 新/a 金融/n  /x 智能/n 银行/n 全面/n 升级/vn 
+/x 锦州/ns 银行/n 股份/n 有限公司/n （/x 简称/v 锦州/ns 银行/n ）/x 成立/v 于/p 1997/m 年/m ，/x 于/p 2015/m 年/m 在/p 香港/ns 联合/v 交易所/nt 主板/n 挂牌/v 上市/ns （/x 股票/n 代号/n ：/x 0416/m ）/x 。/x 在/p 全国/n 设立/v 了/ul 14/m 家/m 分行/v ，/x 与/p 全球/n 70/m 多个/m 国家/n 及/c 地区/n 539/m 家/m 银行/n 建立/v 了/ul 代理行/n 关系/n 。/x 
+/x 
+/x 近年来/t ，/x 凭借/p 出色/v 的/uj 经营/vn 业绩/n 、/x 管理水平/n 、/x 服务/vn 质效/n ，/x 锦州/ns 银行/n 得到/v 了/ul 业界/n 和/c 客户/n 的/uj 广泛/a 认可/v 和/c 赞誉/n ，/x 并/c 成功/a 跻身/v 全国/n 大型/b 城市/ns 商业银行/nt 之/u 列/v 。/x 
+/x 
+/x 
+/x 
+/x 锦州/ns 银行/n 积极/ad 推进/v 互联网/n 金融/n ，/x 2016/m 年/m 在/p 完成/v 核心/n 业务/n 系统升级/n 改造/v 的/uj 同时/c ，/x 加快/v 了/ul 手机/n 银行/n 、/x 微信/vn 银行/n 、/x 企业/n 网银/nt 、/x 个人/n 网银/n 等/u 发展/vn 步伐/n 。/x 支付/v 平台/n 、/x 电商/n 平台/n 和/c 直销/v 银行/n 上线/n 运行/v ，/x 实现/v 了/ul 智能/n 银行/n 的/uj 全面/n 升级/vn 。/x 
+/x 
+/x 银行业务/n 创新/v  /x  /x 风/n 控/v 先行/n 
+/x 近两年/l ，/x 锦州/ns 银行/n 的/uj 业务量/n 有/v 了/ul 突飞猛进/i 的/uj 发展/vn ，/x 银行业务/n 越来越/d 互联网/n 化/n 、/x 开放/v 化/n ，/x 外接/b 的/uj 互联网/n 化/n 服务/vn 越来越/d 多/m ，/x 这/r 就/d 需要/v 银行/n 整体/n 系统/n 与/p 发展/vn 速度/n 相匹配/nz ，/x 也/d 对/p 银行/n 的/uj 安全性/nr 提出/v 了/ul 更/d 高/a 要求/v ，/x 以/p 保证/v 客户/n 交易/n 正常/d 、/x 安全/an 地/uv 进行/v ，/x 同时/c 使/v 服务/vn 系统/n 更加/d 灵活/a ，/x 拥有/v 更/d 高性能/n 应对/v 大/a 交易量/n 。/x 
+/x 
+/x 在/p 风险/n 防控/vn 上/f ，/x 锦州/ns 银行/n 俨然/v 已/d 走/v 在/p 商业银行/nt 的/uj 前列/v 。/x 其/r 电子/n 渠道/n 全面/n 接入/v 邦盛/nz 科技/n 的/uj 风险/n 控制/v 及/c 反/v 欺诈/vn 系统/n ，/x 实现/v 以/p “/x 流/n ”/x 的/uj 形式/n 处理/v 银行/n 交易/n 产生/n 的/uj 海量/n 数据/n ，/x 并/c 实时/d 做出/v 响应/v 。/x 同时/c ，/x 利用/n 大/a 数据/n 工具/n 从/p 海量/n 的/uj 数据/n 中/f 准确/a 、/x 高效/a 的/uj 撷取/v 、/x 挖掘/v 、/x 分析/vn 出/v 欺诈/vn 等/u 行为/v 特征/n ，/x 全面/n 提升/v 了/ul 锦州/ns 银行/n 的/uj 风险管理/n 能力/n 。/x 
+/x 
+/x 专注/v 金融/n 风/n 控反/v 欺诈/vn  /x  /x 构建/v 银行/n 全/a 渠道/n 事/n 中风/ns 控/v 体系/n 
+/x 作为/v 国内/s 最早/d 进行/v 银行/n 等/u 金融机构/n 反/zg 欺诈/vn 研究/vn 的/uj 探索者/nr ，/x 邦盛/nz 科技/n 一直/d 专注/v 于/p 实时/d 大/a 数据处理/n 的/uj 金融/n 安全/an 领域/n ，/x 自主/v 研发/j 了/ul 一整套/m 金融/n 领域/n 实时/d 风险/n 控制/v 与/p 反/v 欺诈/vn 解决方案/n ，/x 并/c 提供/v 解决方案/n 与/p 服务/vn 并行/v 的/uj 模式/n 。/x 目前/t ，/x 已/d 在/p 银行/n 、/x 三方/m 支付/v 、/x 互联网/n 金融/n 、/x 证券/n 、/x 保险/n 、/x 电商/n 等/u 领域/n 广泛应用/l ，/x 拥有/v 大中型/b 金融/n 客户/n 近/t 200/m 家/m 。/x 
+/x 
+/x 邦盛/nz 科技/n 建立/v 的/uj 事/n 中风/ns 控系统/n 是/v 基于/p 大/a 数据/n 实时/d 分析/vn 处理/v 技术/n 构建/v 的/uj 先进/a 、/x 高效/a 、/x 精准/n 的/uj 银行/n 全/a 渠道/n 中央/n 实时/d 风险/n 监控/vn 体系/n ，/x 独立/v 于/p 所有/b 的/uj 银行业务/n 系统/n ，/x 但/c 可以/c 同时/c 实时/d 监控/vn 发生/v 在/p 银行业务/n 系统/n 的/uj 所有/b 交易/n 行为/v 和/c 非/h 交易/n 行为/v ，/x 基于/p 其/r 面临/v 的/uj 不同/a 风险/n 构建/v 综合/vn 防控/vn 体系/n ，/x 帮助/v 银行/n 建设/vn 中央/n 风险/n 防控/vn 体系/n 。/x 
+/x 
+/x 邦盛/nz 科技/n 的/uj 交易/n 风险/n 监控/vn 系统/n 可以/c 制定/v 全面/n 的/uj 实时/d 反/zg 欺诈/vn 规则/n ，/x 可/v 对/p 银行业务/n 系统/n 发生/v 的/uj 风险/n 行为/v 进行/v 有效/a 的/uj 监督/vn 和/c 控制/v ，/x 以/p 防范/v 伪/j 卡/n 、/x 套现/v 、/x 虚假/a 注册/v 、/x 账户/n 盗用/v 、/x 银行卡/nr 盗用/v 、/x 营销/vn 欺诈/vn 等/u 各/r 业务/n 环节/n 欺诈/vn 风险/n 。/x 系统/n 通过/p 规则/n 引擎/n 在/p 业务/n 发生/v 的/uj 同时/c 快速/d 判断/v 业务/n 风险/n ，/x 从而/c 实现/v 对/p 业务/n 过程/n 中/f 的/uj 风险/n 进行/v 实时/d 预警/vn 和/c 控制/v 。/x 
+/x 
+/x 自主/v 可控/v 事/n 中/f 反/v 欺诈/vn 核心技术/n  /x  /x 全面/n 提升/v 反/zg 欺诈/vn 精确性/n 
+/x 针对/p 银行/n 多/m 业务/n 渠道/n 汇聚/v 成/v 的/uj 海量/n 历史数据/n 池/ng 和/c 高/a 并发/v 的/uj 访问/v 数据流/n ，/x 邦盛/nz 科技/n 的/uj 核心/n 应对/v 技术/n 是/v 其/r 自主/v 研发/j 的/uj 流式/n 大/a 数据/n 极速/d 处理/v 平台/n “/x 流/n 立方/q ”/x ，/x 该/r 技术/n 处理/v 吞吐量/n 可/v 达/v 百万/m 笔/n 每秒/r ，/x 单笔/n 延时/ns 可控/v 1/x 毫秒/q 内/n ，/x 并/c 具有/v 高/a 可靠/v 、/x 高/a 可/v 扩展/v 、/x 高/a 兼容/v 的/uj 特征/n 。/x 可/v 将/d 不同/a 通道/v 的/uj 数据/n 进行/v 实时/d 汇总/n 分析/vn ，/x 并/c 针对/p 多种/m 场景/n 进行/v 即时/c 建模/n ，/x 从而/c 大大缩短/i 响应/v 时间/n ，/x 帮助/v 银行/n 实时/d 做出/v 更好/d 的/uj 决策/n 。/x 
+/x 
+/x 
+/x 
+/x 同时/c ，/x 邦盛/nz 科技/n 还/d 集成/v 包括/v 设备/vn 指纹/n 、/x 代理/n 侦测/v 、/x 智能/n 定位/n 、/x 模糊/a 匹配/v 、/x 关联/ns 分析/vn 、/x 人机/n 识别/v 等/u 反/v 欺诈/vn 专有/b 技术/n ，/x 结合/v 针对性/n 的/uj 反/vn 欺诈/vn 数据/n ，/x 包括/v 通信/j 小号/n 、/x 虚假/a 手机号/n 、/x IP/eng 数据库/n 、/x 定位/n 数据/n 等/u 反/v 欺诈/vn 数据/n ，/x 全面/n 提升/v 银行/n 反/zg 欺诈/vn 的/uj 精确性/n 。/x 而/c 在/p 人工智能/n 领域/n ，/x 邦盛/nz 科技/n 3/x 年前/t 就/d 开始/v 布局/n ，/x 并/c 率先/d 将/d 机器/n 学习/v 应用/v 在/p 了/ul 金融/n 风/n 控/v 实践/v 中/f 。/x 
+/x 
+/x 近年来/t ，/x 锦州/ns 银行/n 始终/d 以/p 开放/v 共享/v 的/uj 心态/n 拥抱/v 新/a 金融/n ，/x 探寻/v 金融/n 科技/n 的/uj 融合/vn 。/x 面对/v 新/a 金融/n ，/x 锦州/ns 银行/n 在/p 通过/p 新/a 技术/n 提升/v 金融服务/n 效率/n 的/uj 同时/c ，/x 一直/d 在/p 强化/v 金融/n 的/uj 本质/n 。/x 这次/r 和邦盛/nr 科技/n 的/uj 携手/v ，/x 必将/d 为/p 锦州/ns 银行/n 构建/v 互联网/n 金融/n 生态圈/n 再/d 筑/v 牢固/a 堡垒/n 。/x 
+/x 
+/x 关于/p 邦盛/nz 联系/n 我们/r 加入/v 我们/r 
+/x copyright/eng  /x ©/x  /x 2010/m -/x 2017/m 浙江/ns 邦盛/nz 科技/n 有限公司/n  /x 浙/ns ICP/eng 备/v 10203757/m 号/m 浙/ns 公网/n 安备/v  /x 33010602000845/m 号/m 
+/x 
