@@ -1,0 +1,228 @@
+源自：http://blog.csdn.net/zouxy09/article/details/48903179
+说明：比较展示了sklearn下各种算法应用和效果
+
+一、概述
+
+       机器学习算法在近几年大数据点燃的热火熏陶下已经变得被人所“熟知”，就算不懂得其中各算法理论，叫你喊上一两个著名算法的名字，你也能昂首挺胸脱口而出。当然了，算法之林虽大，但能者还是有限，能适应某些环境并取得较好效果的算法会脱颖而出，而表现平平者则被历史所淡忘。随着机器学习社区的发展和实践验证，这群脱颖而出者也逐渐被人所认可和青睐，同时获得了更多社区力量的支持、改进和推广。
+
+       以最广泛的分类算法为例，大致可以分为线性和非线性两大派别。线性算法有著名的逻辑回归、朴素贝叶斯、最大熵等，非线性算法有随机森林、决策树、神经网络、核机器等等。线性算法举的大旗是训练和预测的效率比较高，但最终效果对特征的依赖程度较高，需要数据在特征层面上是线性可分的。因此，使用线性算法需要在特征工程上下不少功夫，尽量对特征进行选择、变换或者组合等使得特征具有区分性。而非线性算法则牛逼点，可以建模复杂的分类面，从而能更好的拟合数据。
+
+       那在我们选择了特征的基础上，哪个机器学习算法能取得更好的效果呢？谁也不知道。实践是检验哪个好的不二标准。那难道要苦逼到写五六个机器学习的代码吗？No，机器学习社区的力量是强大的，码农界的共识是不重复造轮子！因此，对某些较为成熟的算法，总有某些优秀的库可以直接使用，省去了大伙调研的大部分时间。
+
+       基于目前使用python较多，而python界中远近闻名的机器学习库要数scikit-learn莫属了。这个库优点很多。简单易用，接口抽象得非常好，而且文档支持实在感人。本文中，我们可以封装其中的很多机器学习算法，然后进行一次性测试，从而便于分析取优。当然了，针对具体算法，超参调优也非常重要。
+
+ 
+
+二、Scikit-learn的python实践
+
+2.1、Python的准备工作
+
+       Python一个备受欢迎的点是社区支持很多，有非常多优秀的库或者模块。但是某些库之间有时候也存在依赖，所以要安装这些库也是挺繁琐的过程。但总有人忍受不了这种繁琐，都会开发出不少自动化的工具来节省各位客官的时间。其中，个人总结，安装一个python的库有以下三种方法：
+
+1）Anaconda
+
+       这是一个非常齐全的python发行版本，最新的版本提供了多达195个流行的python包，包含了我们常用的numpy、scipy等等科学计算的包。有了它，妈妈再也不用担心我焦头烂额地安装一个又一个依赖包了。Anaconda在手，轻松我有！下载地址如下：http://www.continuum.io/downloads
+
+2）Pip
+
+       使用过Ubuntu的人，对apt-get的爱只有自己懂。其实对Python的库的下载和安装可以借助pip工具的。需要安装什么库，直接下载和安装一条龙服务。在pip官网https://pypi.python.org/pypi/pip下载安装即可。未来的需求就在#pip install xx 中。
+
+3）源码包
+
+       如果上述两种方法都没有找到你的库，那你直接把库的源码下载回来，解压，然后在目录中会有个setup.py文件。执行#python setup.py install 即可把这个库安装到python的默认库目录中。
+
+2.2、Scikit-learn的测试
+
+       scikit-learn已经包含在Anaconda中。也可以在官方下载源码包进行安装。本文代码里封装了如下机器学习算法，我们修改数据加载函数，即可一键测试：
+
+[python] view plain copy
+
+    classifiers = {'NB':naive_bayes_classifier,   
+                      'KNN':knn_classifier,  
+                       'LR':logistic_regression_classifier,  
+                       'RF':random_forest_classifier,  
+                       'DT':decision_tree_classifier,  
+                      'SVM':svm_classifier,  
+                    'SVMCV':svm_cross_validation,  
+                     'GBDT':gradient_boosting_classifier  
+        }  
+
+train_test.py
+
+[python] view plain copy
+
+    #!usr/bin/env python  
+    #-*- coding: utf-8 -*-  
+      
+    import sys  
+    import os  
+    import time  
+    from sklearn import metrics  
+    import numpy as np  
+    import cPickle as pickle  
+      
+    reload(sys)  
+    sys.setdefaultencoding('utf8')  
+      
+    # Multinomial Naive Bayes Classifier  
+    def naive_bayes_classifier(train_x, train_y):  
+        from sklearn.naive_bayes import MultinomialNB  
+        model = MultinomialNB(alpha=0.01)  
+        model.fit(train_x, train_y)  
+        return model  
+      
+      
+    # KNN Classifier  
+    def knn_classifier(train_x, train_y):  
+        from sklearn.neighbors import KNeighborsClassifier  
+        model = KNeighborsClassifier()  
+        model.fit(train_x, train_y)  
+        return model  
+      
+      
+    # Logistic Regression Classifier  
+    def logistic_regression_classifier(train_x, train_y):  
+        from sklearn.linear_model import LogisticRegression  
+        model = LogisticRegression(penalty='l2')  
+        model.fit(train_x, train_y)  
+        return model  
+      
+      
+    # Random Forest Classifier  
+    def random_forest_classifier(train_x, train_y):  
+        from sklearn.ensemble import RandomForestClassifier  
+        model = RandomForestClassifier(n_estimators=8)  
+        model.fit(train_x, train_y)  
+        return model  
+      
+      
+    # Decision Tree Classifier  
+    def decision_tree_classifier(train_x, train_y):  
+        from sklearn import tree  
+        model = tree.DecisionTreeClassifier()  
+        model.fit(train_x, train_y)  
+        return model  
+      
+      
+    # GBDT(Gradient Boosting Decision Tree) Classifier  
+    def gradient_boosting_classifier(train_x, train_y):  
+        from sklearn.ensemble import GradientBoostingClassifier  
+        model = GradientBoostingClassifier(n_estimators=200)  
+        model.fit(train_x, train_y)  
+        return model  
+      
+      
+    # SVM Classifier  
+    def svm_classifier(train_x, train_y):  
+        from sklearn.svm import SVC  
+        model = SVC(kernel='rbf', probability=True)  
+        model.fit(train_x, train_y)  
+        return model  
+      
+    # SVM Classifier using cross validation  
+    def svm_cross_validation(train_x, train_y):  
+        from sklearn.grid_search import GridSearchCV  
+        from sklearn.svm import SVC  
+        model = SVC(kernel='rbf', probability=True)  
+        param_grid = {'C': [1e-3, 1e-2, 1e-1, 1, 10, 100, 1000], 'gamma': [0.001, 0.0001]}  
+        grid_search = GridSearchCV(model, param_grid, n_jobs = 1, verbose=1)  
+        grid_search.fit(train_x, train_y)  
+        best_parameters = grid_search.best_estimator_.get_params()  
+        for para, val in best_parameters.items():  
+            print para, val  
+        model = SVC(kernel='rbf', C=best_parameters['C'], gamma=best_parameters['gamma'], probability=True)  
+        model.fit(train_x, train_y)  
+        return model  
+      
+    def read_data(data_file):  
+        import gzip  
+        f = gzip.open(data_file, "rb")  
+        train, val, test = pickle.load(f)  
+        f.close()  
+        train_x = train[0]  
+        train_y = train[1]  
+        test_x = test[0]  
+        test_y = test[1]  
+        return train_x, train_y, test_x, test_y  
+          
+    if __name__ == '__main__':  
+        data_file = "mnist.pkl.gz"  
+        thresh = 0.5  
+        model_save_file = None  
+        model_save = {}  
+          
+        test_classifiers = ['NB', 'KNN', 'LR', 'RF', 'DT', 'SVM', 'GBDT']  
+        classifiers = {'NB':naive_bayes_classifier,   
+                      'KNN':knn_classifier,  
+                       'LR':logistic_regression_classifier,  
+                       'RF':random_forest_classifier,  
+                       'DT':decision_tree_classifier,  
+                      'SVM':svm_classifier,  
+                    'SVMCV':svm_cross_validation,  
+                     'GBDT':gradient_boosting_classifier  
+        }  
+          
+        print 'reading training and testing data...'  
+        train_x, train_y, test_x, test_y = read_data(data_file)  
+        num_train, num_feat = train_x.shape  
+        num_test, num_feat = test_x.shape  
+        is_binary_class = (len(np.unique(train_y)) == 2)  
+        print '******************** Data Info *********************'  
+        print '#training data: %d, #testing_data: %d, dimension: %d' % (num_train, num_test, num_feat)  
+          
+        for classifier in test_classifiers:  
+            print '******************* %s ********************' % classifier  
+            start_time = time.time()  
+            model = classifiers[classifier](train_x, train_y)  
+            print 'training took %fs!' % (time.time() - start_time)  
+            predict = model.predict(test_x)  
+            if model_save_file != None:  
+                model_save[classifier] = model  
+            if is_binary_class:  
+                precision = metrics.precision_score(test_y, predict)  
+                recall = metrics.recall_score(test_y, predict)  
+                print 'precision: %.2f%%, recall: %.2f%%' % (100 * precision, 100 * recall)  
+            accuracy = metrics.accuracy_score(test_y, predict)  
+            print 'accuracy: %.2f%%' % (100 * accuracy)   
+      
+        if model_save_file != None:  
+            pickle.dump(model_save, open(model_save_file, 'wb'))  
+
+
+四、测试结果
+
+       本次使用mnist手写体库进行实验：http://deeplearning.net/data/mnist/mnist.pkl.gz。共5万训练样本和1万测试样本。
+
+       代码运行结果如下：
+
+[python] view plain copy
+
+    reading training and testing data...  
+    ******************** Data Info *********************  
+    #training data: 50000, #testing_data: 10000, dimension: 784  
+    ******************* NB ********************  
+    training took 0.287000s!  
+    accuracy: 83.69%  
+    ******************* KNN ********************  
+    training took 31.991000s!  
+    accuracy: 96.64%  
+    ******************* LR ********************  
+    training took 101.282000s!  
+    accuracy: 91.99%  
+    ******************* RF ********************  
+    training took 5.442000s!  
+    accuracy: 93.78%  
+    ******************* DT ********************  
+    training took 28.326000s!  
+    accuracy: 87.23%  
+    ******************* SVM ********************  
+    training took 3152.369000s!  
+    accuracy: 94.35%  
+    ******************* GBDT ********************  
+    training took 7623.761000s!  
+    accuracy: 96.18%  
+
+
+       在这个数据集中，由于数据分布的团簇性较好（如果对这个数据库了解的话，看它的t-SNE映射图就可以看出来。由于任务简单，其在deep learning界已被认为是toy dataset），因此KNN的效果不赖。GBDT是个非常不错的算法，在kaggle等大数据比赛中，状元探花榜眼之列经常能见其身影。三个臭皮匠赛过诸葛亮，还是被验证有道理的，特别是三个臭皮匠还能力互补的时候！
+
+       还有一个在实际中非常有效的方法，就是融合这些分类器，再进行决策。例如简单的投票，效果都非常不错。建议在实践中，大家都可以尝试下。
