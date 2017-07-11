@@ -13,6 +13,8 @@
 
 
 一些开源软件和工具：
-weka，一款图形界面话的工具，支持windos、linux、mac等等操作系统，支持监督、无监督学习，各种分类、聚类方法，相当于sklearn的图形界面化的实现
+1、weka，一款图形界面话的工具，支持windos、linux、mac等等操作系统，支持监督、无监督学习，各种分类、聚类方法，相当于sklearn的图形界面化的实现
 官网：http://weka.wikispaces.com/
 
+2、facebook 的开源工具，fasttext
+github下载地址：  https://github.com/facebookresearch/fastText
