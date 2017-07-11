@@ -17,4 +17,5 @@
 官网：http://weka.wikispaces.com/
 
 2、facebook 的开源工具，fasttext
-github下载地址：  https://github.com/facebookresearch/fastText
+github下载地址：C++版本  https://github.com/facebookresearch/fastText
+               python版本：https://github.com/salestock/fastText.py
