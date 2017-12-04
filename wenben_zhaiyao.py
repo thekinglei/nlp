@@ -1,4 +1,6 @@
 #coding=utf-8
+#pip install textrank4zh==0.3
+
 import jieba
 import jieba.analyse
 from optparse import OptionParser
