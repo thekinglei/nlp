@@ -1,0 +1,11 @@
+sklearn 将训练集分隔，验证精确率和召回率；
+
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
+
+# learn the classifier
+classifier.fit(X_train, y_train)
+
+# predict labels for test data
+predictions = classifier.predict(X_test)
